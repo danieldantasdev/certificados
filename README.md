@@ -12,6 +12,9 @@ Cursos realizados:
 
 -   Introdução ao Packet Tracer
 <p align="right">(<a href="#top">back to top</a>)</p>
+<p align="center">
+  <img width="600" src="Cisco/Introdução ao Packet Tracer.pdf">
+</p>
 
 ## 🧠 Devmedia
 
