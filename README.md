@@ -44,6 +44,13 @@ Cursos realizados:
 -   [Web design responsivo criando css do topo, menu e banner](https://github.com/lobinhodev/Certificados/blob/master/Iped/Web%20design%20responsivo%20criando%20css%20do%20topo%2C%20menu%20e%20banner.pdf)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## 🧠 Rocketseat
+
+Cursos realizados:
+
+-   [DoWhile 2021](https://github.com/lobinhodev/Certificados/blob/master/Rocketseat/Web%20design%20responsivo%20criando%20css%20do%20topo%2C%20menu%20e%20banner.pdf)
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ---
 
 Feito com ♥ by Lobinhodev 🐺
