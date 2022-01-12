@@ -48,7 +48,7 @@ Cursos realizados:
 
 Cursos realizados:
 
--   [DoWhile 2021](https://github.com/lobinhodev/Certificados/blob/master/Rocketseat/Web%20design%20responsivo%20criando%20css%20do%20topo%2C%20menu%20e%20banner.pdf)
+-   [DoWhile 2021](https://github.com/lobinhodev/Certificados/blob/master/Rocketseat/dowhile-2021.pdf)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
