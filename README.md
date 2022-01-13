@@ -35,6 +35,7 @@ Cursos realizados:
 -   [Lógica de Programação Essencial](https://github.com/lobinhodev/Certificados/blob/master/Dio/L%C3%B3gica%20de%20Programa%C3%A7%C3%A3o%20Essencial.pdf)
 -   [Posicionando elementos com Flexbox em CSS](https://github.com/lobinhodev/Certificados/blob/master/Dio/Posicionando%20elementos%20com%20Flexbox%20em%20CSS.pdf)
 -   [Primeiros passos para desenvolvimento web](https://github.com/lobinhodev/Certificados/blob/master/Dio/Primeiros%20passos%20para%20desenvolvimento%20web.pdf)
+-   [Estrutura de dados e algoritmo](https://github.com/lobinhodev/Certificados/blob/master/Dio/Estrutura%20de%20dados%20e%20algoritmo.pdf)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## 🧠 Iped
