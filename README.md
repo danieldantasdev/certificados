@@ -27,7 +27,6 @@ Cursos realizados:
 
 Cursos realizados:
 
--   [Bootcamp Inter Frontend Developer](https://github.com/lobinhodev/Certificados/blob/master/Dio/Bootcamp%20Inter%20Frontend%20Developer.pdf)
 -   [Conceitos de responsividade e experiência do Usuário](https://github.com/lobinhodev/Certificados/blob/master/Dio/Conceitos%20de%20responsividade%20e%20experi%C3%AAncia%20do%20Usu%C3%A1rio.pdf)
 -   [Construindo páginas da internet com Bootstrap](https://github.com/lobinhodev/Certificados/blob/master/Dio/Construindo%20p%C3%A1ginas%20da%20internet%20com%20Bootstrap.pdf)
 -   [IDE Instalação e Configuração - Visual Studio Code](https://github.com/lobinhodev/Certificados/blob/master/Dio/IDE%20VSCode.pdf)
@@ -36,6 +35,10 @@ Cursos realizados:
 -   [Posicionando elementos com Flexbox em CSS](https://github.com/lobinhodev/Certificados/blob/master/Dio/Posicionando%20elementos%20com%20Flexbox%20em%20CSS.pdf)
 -   [Primeiros passos para desenvolvimento web](https://github.com/lobinhodev/Certificados/blob/master/Dio/Primeiros%20passos%20para%20desenvolvimento%20web.pdf)
 -   [Estrutura de dados e algoritmo](https://github.com/lobinhodev/Certificados/blob/master/Dio/Estrutura%20de%20dados%20e%20algoritmos.pdf)
+
+Bootcamp:
+
+-   [Bootcamp Inter Frontend Developer](https://github.com/lobinhodev/Certificados/blob/master/Dio/Bootcamp%20Inter%20Frontend%20Developer.pdf)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ## 🧠 Iped
@@ -47,7 +50,7 @@ Cursos realizados:
 
 ## 🧠 Rocketseat
 
-Cursos realizados:
+Eventos:
 
 -   [DoWhile 2021](https://github.com/lobinhodev/Certificados/blob/master/Rocketseat/dowhile-2021.pdf)
 <p align="right">(<a href="#top">back to top</a>)</p>
