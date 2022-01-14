@@ -35,6 +35,7 @@ Cursos realizados:
 -   [Posicionando elementos com Flexbox em CSS](https://github.com/lobinhodev/Certificados/blob/master/Dio/Posicionando%20elementos%20com%20Flexbox%20em%20CSS.pdf)
 -   [Primeiros passos para desenvolvimento web](https://github.com/lobinhodev/Certificados/blob/master/Dio/Primeiros%20passos%20para%20desenvolvimento%20web.pdf)
 -   [Estrutura de dados e algoritmo](https://github.com/lobinhodev/Certificados/blob/master/Dio/Estrutura%20de%20dados%20e%20algoritmos.pdf)
+-   [Introdução ao Git e ao GitHub](https://github.com/lobinhodev/Certificados/blob/master/Dio/Introdu%C3%A7ao%20ao%20Git%20e%20ao%20Github.pdf)
 
 Bootcamp Inter Frontend Developer:
 
