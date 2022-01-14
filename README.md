@@ -36,6 +36,7 @@ Cursos realizados:
 -   [Primeiros passos para desenvolvimento web](https://github.com/lobinhodev/Certificados/blob/master/Dio/Primeiros%20passos%20para%20desenvolvimento%20web.pdf)
 -   [Estrutura de dados e algoritmo](https://github.com/lobinhodev/Certificados/blob/master/Dio/Estrutura%20de%20dados%20e%20algoritmos.pdf)
 -   [Introdução ao Git e ao GitHub](https://github.com/lobinhodev/Certificados/blob/master/Dio/Introdução%20ao%20Git%20e%20ao%20GitHub.pdf)
+-   [Projetos ágeis com SCRUM](https://github.com/lobinhodev/Certificados/blob/master/Dio/Prjetos%20ágeis%20com%20SCRUM.pdf)
 
 Bootcamp Inter Frontend Developer:
 
