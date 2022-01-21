@@ -62,8 +62,8 @@ Eventos:
 
 Eventos:
 
--   [Maratona de programação](https://github.com/lobinhodev/Certificados/blob/master/Rocketseat/dowhile-2021.pdf)
--   [Amazônia](https://github.com/lobinhodev/Certificados/blob/master/Rocketseat/dowhile-2021.pdf)
+-   [Maratona de programação](https://github.com/lobinhodev/Certificados/blob/master/Kenzie/certificado-maratona-programacao.pdf)
+-   [Amazônia](https://github.com/lobinhodev/Certificados/blob/master/Kenzie/certificado-amazonia.pdf)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 ---
