@@ -58,6 +58,14 @@ Eventos:
 -   [DoWhile 2021](https://github.com/lobinhodev/Certificados/blob/master/Rocketseat/dowhile-2021.pdf)
 <p align="right">(<a href="#top">back to top</a>)</p>
 
+## 🧠 Kenzie
+
+Eventos:
+
+-   [Maratona de programação](https://github.com/lobinhodev/Certificados/blob/master/Rocketseat/dowhile-2021.pdf)
+-   [Amazônia](https://github.com/lobinhodev/Certificados/blob/master/Rocketseat/dowhile-2021.pdf)
+<p align="right">(<a href="#top">back to top</a>)</p>
+
 ---
 
 Feito com ♥ by Lobinhodev 🐺
