@@ -75,42 +75,42 @@
 -   [Introdução ao JavaScript - 3 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Conceitos%20de%20responsividade%20e%20experi%C3%AAncia%20do%20Usu%C3%A1rio.pdf)
 -   [Sintaxe básica em JavaScript - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Conceitos%20de%20responsividade%20e%20experi%C3%AAncia%20do%20Usu%C3%A1rio.pdf)
 -   [Sintaxe e operadores em JavaScript - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Conceitos%20de%20responsividade%20e%20experi%C3%AAncia%20do%20Usu%C3%A1rio.pdf)
--   [Variáveis e Tipos em JavaScript - 3 horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Variáveis%20e%20Tipos%20em%20JavaScript)
--   [Funções em JavaScript - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
--   [Coleções em JavaScript - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
--   [Debugging e Error Handing em JavaScript - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
--   [JavaScript Assíncrono - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
--   [Orientação a objetos em JavaScript - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
--   [Map, Filter e Reduce em JavaScript - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
--   [Manipulação do DOM com JavaScript - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
--   [Resolvendo Desafios de código em JavaScript - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
--   [Recriando a interface da Netflix - 5 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [Variáveis e Tipos em JavaScript - 3 horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Variáveis%20e%20Tipos%20em%20JavaScript.pdf)
+-   [Funções em JavaScript - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/Funções%20em%20JavaScript.pdf)
+-   [Coleções em JavaScript - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/Coleções%20em%20JavaScript.pdf)
+-   [Debugging e Error Handing em JavaScript - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Debugging%20e%20Error%20Handling%20em%20JavaScript.pdf)
+-   [JavaScript Assíncrono - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/Javascript%20Assíncrono.pdf/)
+-   [Orientação a objetos em JavaScript - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/Orientação%20a%20objetos%20em%20JavaScript.pdf)
+-   [Map, Filter e Reduce em JavaScript - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Map,%20Filter%20e%20Reduce%20em%20JavaScript.pdf)
+-   [Manipulação do D.O.M com JavaScript - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/Manipulando%20a%20D.O.M.%20com%20JavaScript.pdf)
+-   [Resolvendo Desafios de código em JavaScript - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/Resolvendo%20Desafios%20de%20Código.pdf)
+-   [Recriando a interface do Netflix - 5 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Recriando%20a%20Interface%20do%20Netflix.pdf)
 
 > **ReactJS**
 
--   [Introdução ao ReactJS - 3 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
--   [Desenvolvimento de aplicações para internet com ReactJS - 4 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
--   [Trabalhando com Componentes com ReactJS - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
--   [Introdução aos Reacts Hooks - 5 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
--   [Trabalhando com States e Effects no ReactJS - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [Introdução ao ReactJS - 3 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Introdução%20ao%20ReactJS.pdf)
+-   [Desenvolvimento de aplicações para internet com ReactJS - 4 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Desenvolvimento%20de%20aplicações%20para%20internet%20com%20ReactJS.pdf)
+-   [Trabalhando com Componentes em ReactJS - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Trabalhando%20com%20Componentes%20em%20React.pdf)
+-   [Introdução aos Reacts Hooks - 5 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Introdução%20aos%20React%20Hooks.pdf)
+-   [Trabalhando com States e Effects no ReactJS - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Trabalhando%20com%20States%20%26%20Effects%20no%20ReactJs.pdf)
 
 > **NodeJS**
 
--   [Instalando seu ambiente em NodeJS - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
--   [Explorando o estilo arquitetural REST com NodeJS - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio)
--   [NodeJS com bancos de dados relacionais (SQL) - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio)
--   [Microsserviços e integrações com NodeJS - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio)
--   [Integrando Backend em NodeJS com Frontend em ReactJS - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio)
+-   [Instalando seu ambiente em NodeJS - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/Instalando%20e%20Configurando%20seu%20Ambiente%20Node.js.pdf)
+-   [Explorando o estilo arquitetural REST com NodeJS - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Explorando%20o%20Estilo%20Arquitetural%20REST%20com%20Node.js.pdf)
+-   [NodeJS com bancos de dados relacionais (SQL) - 2 Horas](<https://github.com/lobinhodev/Certificados/blob/master/Dio/Node.js%20com%20Bancos%20de%20Dados%20Relacionais%20(SQL).pdf>)
+-   [Microsserviços e integrações com NodeJS - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Microsserviços%20e%20Integrações%20com%20Node.js.pdf)
+-   [Integrando Backend em NodeJS com Frontend em ReactJS - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Integrando%20um%20Backend%20em%20Node.js%20com%20um%20Frontend%20em%20React%20para%20um%20E-commerce.pdf)
 
 > **SQL SERVER**
 
--   [SQL SERVER - Criando suas primeiras consultas - 4 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
--   [Modelando um banco de dados na prática - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
--   [SQL SERVER - Boas práticas - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [SQL SERVER - Criando suas primeiras consultas - 4 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/SQL%20SERVER%20-%20Criando%20suas%20primeiras%20consultas.pdf)
+-   [Modelando um banco de dados na prática - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Modelando%20um%20banco%20de%20dados%20na%20prática%20com%20SQL%20SERVER.pdf)
+-   [SQL SERVER - Boas práticas - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/SQL%20Server%20-%20Boas%20práticas%20em%20bancos%20relacionais.pdf)
 
 > **API's e métodos HTTP**
 
--   [Introdução a API'S e métodos HTTP - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [Introdução a API'S e métodos HTTP - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Introdução%20a%20APIs%20e%20métodos%20HTTP.pdf)
 
 > **Visual Studio Code**:
 
