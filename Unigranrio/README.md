@@ -23,14 +23,19 @@
 
 > **Biossegurança – Laboratórios de DST, AIDS e Hepatites Virais**
 
--   [Biossegurança – Laboratórios de DST, AIDS e Hepatites Virais]()
+-   [Biossegurança – Laboratórios de DST, AIDS e Hepatites Virais - 15 Horas]()
+<p align="right">(<a href="#top"> 2022.1 à 2022.2 </a>)</p>
+
+> **Coleta de sangue - Diagnóstico e monitoramento das DST, AIDS e Hepatites Virais**
+
+-   [Coleta de sangue - Diagnóstico e monitoramento das DST, AIDS e Hepatites Virais - 15 Horas]()
 <p align="right">(<a href="#top"> 2022.1 à 2022.2 </a>)</p>
 
 ## 🧠 Abeline
 
 > **Biomedicina na Abeline**:
 
--   [Biomedicina na Abeline]()
+-   [Biomedicina na Abeline - 120 Horas]()
 <p align="right">(<a href="#top"> 2022.1 à 2022.2 </a>)</p>
 
 # 🎓 Eventos / Workshops / Palestras / Webinars
@@ -58,35 +63,26 @@
 
 > **Boas práticas em pré-analítico**
 
--   [Boas práticas em pré-analítico]()
+-   [Boas práticas em pré-analítico - 1 Hora]()
 <p align="right">(<a href="#top"> 2022.1 à 2022.2 </a>)</p>
 
 ## 🧠 Estácio
 
 > **Carreira profissional da saúde no Brasil e Exterior**
 
--   [Carreira profissional da saúde no Brasil e Exterior]()
+-   [Carreira profissional da saúde no Brasil e Exterior - 5 Horas]()
 <p align="right">(<a href="#top"> 2022.1 à 2022.2 </a>)</p>
 
 ## 🧠 LACforense
 
 > **Certificados de Visitas IBEx Daniel**
 
--   [Certificados de Visitas IBEx]()
+-   [Certificados de Visitas IBEx - 10 Horas]()
 <p align="right">(<a href="#top"> 2022.1 à 2022.2 </a>)</p>
 
-## 🧠 LACforense
+> **Ciclo de palestras da LACforense**
 
-> **Certificados de Visitas IBEx Daniel**
-
--   [Certificados de Visitas IBEx]()
-<p align="right">(<a href="#top"> 2022.1 à 2022.2 </a>)</p>
-
-## 🧠 LACforense
-
-> **Certificados de Visitas IBEx Daniel**
-
--   [Certificados de Visitas IBEx]()
+-   [Ciclo de palestras da LACforense - 4 Horas]()
 <p align="right">(<a href="#top"> 2022.1 à 2022.2 </a>)</p>
 
 ---
