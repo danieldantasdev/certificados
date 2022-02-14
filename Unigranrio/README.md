@@ -108,6 +108,45 @@
 -   [Evento I Perfusionando da LINPE com parceria com SBCEC - 5 Horas]()
 <p align="right">(<a href="#top"> 2019.1 à 2019.2 </a>)</p>
 
+## 🧠 LAEMC - LAEM UNINOVAFAVIP - LAEMPI - LADO-PHO - LADO-UFMA-SLZ - LAMED - LAEM-UFPI
+
+> **`I Simpósio` Acadêmico Multidisciplinar de Diabetes**
+
+-   [I Simpósio Acadêmico Multidisciplinar de Diabetes - 20 Horas]()
+<p align="right">(<a href="#top"> 2019.1 à 2019.2 </a>)</p>
+
+## 🧠 UNIRIO
+
+> **`I Simpósio` de Biologia e Biomedicina**
+
+-   [I Simpósio de Biologia e Biomedicina - 20 Horas]()
+
+> **`II Simpósio` de Biologia e Biomedicina**
+
+-   [II Simpósio de Biologia e Biomedicina - 20 Horas]()
+<p align="right">(<a href="#top"> 2019.1 à 2019.2 </a>)</p>
+
+## 🧠 UFSC
+
+> **`I Simpósio` de Inovação e Tecnologia em Parasitologia da UFSC**
+
+-   [I Simpósio de Inovação e Tecnologia em Parasitologia da UFSC - 20 Horas]()
+<p align="right">(<a href="#top"> 2019.1 à 2019.2 </a>)</p>
+
+## 🧠 UFRN - LAFRA
+
+> **`I Simpósio` Online de Reprodução Assistida**
+
+-   [I Simpósio` Online de Reprodução Assistida - 8 Horas]()
+<p align="right">(<a href="#top"> 2019.1 à 2019.2 </a>)</p>
+
+## 🧠 LAC-FMUMC
+
+> **`I Simpósio` Online de Cardiologia da LAC-FMUMC**
+
+-   [I Simpósio Online de Cardiologia da LAC-FMUMC - 10 Horas]()
+<p align="right">(<a href="#top"> 2019.1 à 2019.2 </a>)</p>
+
 ## 🧠 UNIFAVIP
 
 > **`Congresso` On-line de Biomedicina**
@@ -145,6 +184,10 @@
 <p align="right">(<a href="#top"> 2019.1 à 2019.2 </a>)</p>
 
 ## 🧠 UNIS
+
+> **`I Webinar` da Biomedicina UNIS**
+
+-   [I Webinar da Biomedicina UNIS - 14 Horas]()
 
 > **`Palestra` sobre Boas práticas em pré-analítico**
 
