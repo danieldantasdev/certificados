@@ -1,10 +1,21 @@
 # 🎓 Cursos livres
 
+## 🧠 FIOCRUZ
+
+> **Curso de atualização em neuroinfecção**
+
+-   [Curso de atualização em neuroinfecção - 4 Horas]()
+<p align="right">(<a href="#top"> 2019.1 à 2019.1 </a>)</p>
+
 ## 🧠 UNA-SUS
 
 > **Atenção Integral às Crianças com Alterações do Crescimento e Desenvolvimento, Relacionadas às Infecções Zika e STORCH**:
 
 -   [Atenção Integral às Crianças com Alterações do Crescimento e Desenvolvimento, Relacionadas às Infecções Zika e STORCH - 30 Horas]()
+
+> **Hemograma, Anemia e Linfadenopatia**
+
+-   [Hemograma, Anemia e Linfadenopatia - 30 Horas]()
 <p align="right">(<a href="#top"> 2019.1 à 2019.1 </a>)</p>
 
 ## 🧠 UFRJ
@@ -27,6 +38,30 @@
 > **Coleta de sangue - Diagnóstico e monitoramento das DST, AIDS e Hepatites Virais**
 
 -   [Coleta de sangue - Diagnóstico e monitoramento das DST, AIDS e Hepatites Virais - 15 Horas]()
+
+> **Cuidado Integral da PVHIV na Unidade Básica de Saúde**
+
+-   [Cuidado Integral da PVHIV na Unidade Básica de Saúde - 20 Horas]()
+
+> **Diagnóstico de Hepatites Virais**
+
+-   [Diagnóstico de Hepatites Virais - 15 Horas]()
+
+> **Diagnóstico de HIV**
+
+-   [Diagnóstico de HIV - 15 Horas]()
+
+> **Diagnóstico de Sífilis**
+
+-   [Diagnóstico de Sífilis - 15 Horas]()
+
+> **Doença de Chagas - Triagem e diagnóstico sorológico em Unidades Hemoterápicas e Laboratórios de Saúde Pública**
+
+-   [Doença de Chagas - Triagem e diagnóstico sorológico em Unidades Hemoterápicas e Laboratórios de Saúde Pública - 15 Horas]()
+
+> **Doença Falciforme - Conhecer para cuidar**
+
+-   [Doença Falciforme - Conhecer para cuidar - 30 Horas]()
 <p align="right">(<a href="#top"> 2019.1 à 2019.1 </a>)</p>
 
 ## 🧠 Abeline
@@ -36,47 +71,105 @@
 -   [Biomedicina na Abeline - 120 Horas]()
 <p align="right">(<a href="#top"> 2019.1 à 2019.1 </a>)</p>
 
-# 🎓 Eventos / Workshops / Palestras / Webinars
+# 🧠 IPED
+
+> **Curso de Introdução ao Diagnóstico de vírus**
+
+-   [Curso de Introdução ao Diagnóstico de vírus - 10 Horas]()
+<p align="right">(<a href="#top"> 2019.1 à 2019.1 </a>)</p>
+
+## 🧠 HEMOTEC
+
+> **Coletas de fluídos Biológicos**
+
+-   [Coletas de fluídos Biológicos]()
+<p align="right">(<a href="#top"> 2019.1 à 2019.1 </a>)</p>
+
+# 🎓 Eventos / Workshops / Palestras / Webinars / Congressos / Simpósios / Visitas / Encontro
+
+## 🧠 UFRJ
+
+> **`I Encontro` de Micologia Médica e Forense**
+
+-   [I Encontro de Micologia Médica e Forense - 16Horas]()
+<p align="right">(<a href="#top"> 2019.1 à 2019.2 </a>)</p>
+
+## 🧠 SAERJ - Sociedade de Anatomia do Estado do Rio de Janeiro
+
+> **`I Congresso` online da SAERJ**
+
+-   [I Congresso online da SAERJ - 12 Horas]()
+<p align="right">(<a href="#top"> 2019.1 à 2019.2 </a>)</p>
+
+## 🧠 LINPE - Liga Nacional de Perfusão
+
+> **`Evento` I Perfusionando da LINPE com parceria com SBCEC**
+
+-   [Evento I Perfusionando da LINPE com parceria com SBCEC - 5 Horas]()
+<p align="right">(<a href="#top"> 2019.1 à 2019.2 </a>)</p>
+
+## 🧠 UNIFAVIP
+
+> **`Congresso` On-line de Biomedicina**
+
+-   [Congresso On-line de Biomedicina - 30 Horas]()
+<p align="right">(<a href="#top"> 2019.1 à 2019.2 </a>)</p>
+
+## 🧠 LADOP - Ligas Acadêmicas de Doenças Parasitárias e Zoonoses e Infectologia da Universidade Federal de Mato Grosso
+
+> **`I Congresso` online de Infectologia**
+
+-   [I Congresso online de Infectologia - 20 Horas]()
+<p align="right">(<a href="#top"> 2019.1 à 2019.2 </a>)</p>
 
 ## 🧠 SBCEC- Sociedade Brasileira de Circulação Extracorpórea
 
-> **Atuação do Perfusionista em HIPEC**:
+> **`I Congresso` Internacional de Circulação Extracorpórea Digital - CICED**
+
+-   [I Congresso Internacional de Circulação Extracorpórea Digital - CICED - 50 Horas]()
+
+> **`Webinar` da Atuação do Perfusionista em HIPEC**:
 
 -   [Atuação do Perfusionista em HIPEC - 2 Horas]()
 <p align="right">(<a href="#top"> 2019.1 à 2019.2 </a>)</p>
 
 ## 🧠 CAB - Unigranrio
 
-> **Atuação do biomédico na reprodução assistida**:
+> **`Palestra` sobre a Atuação do biomédico na reprodução assistida**:
 
 -   [Atuação do biomédico na reprodução assistida - 4 Horas]()
 
-> **Bioestimuladores**:
+> **`Palestra` sobre Bioestimuladores**:
 
 -   [Bioestimuladores - 4 Horas]()
 <p align="right">(<a href="#top"> 2019.1 à 2019.2 </a>)</p>
 
 ## 🧠 UNIS
 
-> **Boas práticas em pré-analítico**
+> **`Palestra` sobre Boas práticas em pré-analítico**
 
 -   [Boas práticas em pré-analítico - 1 Hora]()
 <p align="right">(<a href="#top"> 2022.1 à 2022.2 </a>)</p>
 
 ## 🧠 Estácio
 
-> **Carreira profissional da saúde no Brasil e Exterior**
+> **`Mesa redonda` sobre a Carreira profissional da saúde no Brasil e Exterior**
 
 -   [Carreira profissional da saúde no Brasil e Exterior - 5 Horas]()
+
+> **`Mesa redonda` Comparando o enfrentamento da COVID-19 no Brasil e Exterior**
+
+-   [Comparando o enfrentamento da COVID-19 no Brasil e Exterior - 5 Horas]()
+
 <p align="right">(<a href="#top"> 2022.1 à 2022.2 </a>)</p>
 
 ## 🧠 LACforense
 
-> **Certificados de Visitas IBEx Daniel**
+> **`Visita` ao IBEx**
 
 -   [Certificados de Visitas IBEx - 10 Horas]()
 
-> **Ciclo de palestras da LACforense**
+> **`Ciclo de palestras` da LACforense**
 
 -   [Ciclo de palestras da LACforense - 4 Horas]()
 <p align="right">(<a href="#top"> 2019.1 à 2019.2 </a>)</p>
