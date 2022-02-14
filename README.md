@@ -148,7 +148,7 @@
 > **Bootcamp Inter Frontend Developer**:
 
 -   [Inicio do Bootcamp Inter Frontend Developer - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/Bootcamp%20Inter%20Frontend%20Developer.pdf)
--   [Término do Bootcamp Inter Frontend Developer - 99 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Bootcamp%20Inter%20Frontend%20Developer.pdf)
+-   [Término do Bootcamp Inter Frontend Developer - 99 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Inter%20Frontend%20Developer.pdf)
 <p align="right">(<a href="#top"> 2021.2 à 2021.2 </a>)</p>
 
 ## 🧠 Rocketseat
