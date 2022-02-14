@@ -67,6 +67,22 @@
 -   [Introdução ao JavaScript - 3 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Conceitos%20de%20responsividade%20e%20experi%C3%AAncia%20do%20Usu%C3%A1rio.pdf)
 -   [Sintaxe básica em JavaScript - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Conceitos%20de%20responsividade%20e%20experi%C3%AAncia%20do%20Usu%C3%A1rio.pdf)
 -   [Sintaxe e operadores em JavaScript - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Conceitos%20de%20responsividade%20e%20experi%C3%AAncia%20do%20Usu%C3%A1rio.pdf)
+-   [Variáveis e Tipos em JavaScript](https://github.com/lobinhodev/Certificados/blob/master/Dio/Variáveis%20e%20Tipos%20em%20JavaScript)
+-   [Funções em JavaScript](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [Coleções em JavaScript](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [Debugging e Error Handing em JavaScript](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [JavaScript Assíncrono](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [Orientação a objetos em JavaScript](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [Map, Filter e Reduce em JavaScript](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [Manipulação do DOM com JavaScript](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [Resolvendo Desafios de código em JavaScript](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [Recriando a interface da Netflix](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+
+> **SQL SERVER**
+
+-   [SQL SERVER - Criando suas primeiras consultas](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [Modelando um banco de dados na prática](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [SQL SERVER - Boas práticas](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
 
 > **Responsividade**:
 
