@@ -62,6 +62,14 @@
 -   [Posicionando elementos com Flexbox em CSS - 4 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Posicionando%20elementos%20com%20Flexbox%20em%20CSS.pdf)
 -   [Primeiros passos para desenvolvimento web - 6 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Primeiros%20passos%20para%20desenvolvimento%20web.pdf)
 
+> **Responsividade**:
+
+-   [Conceitos de responsividade e experiência do Usuário - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/Conceitos%20de%20responsividade%20e%20experi%C3%AAncia%20do%20Usu%C3%A1rio.pdf)
+
+> **Bootstrap**:
+
+-   [Construindo páginas da internet com Bootstrap - 4 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Construindo%20p%C3%A1ginas%20da%20internet%20com%20Bootstrap.pdf)
+
 > **JavaScript - ES8**:
 
 -   [Introdução ao JavaScript - 3 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Conceitos%20de%20responsividade%20e%20experi%C3%AAncia%20do%20Usu%C3%A1rio.pdf)
@@ -77,12 +85,6 @@
 -   [Manipulação do DOM com JavaScript](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
 -   [Resolvendo Desafios de código em JavaScript](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
 -   [Recriando a interface da Netflix](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
-
-> **SQL SERVER**
-
--   [SQL SERVER - Criando suas primeiras consultas](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
--   [Modelando um banco de dados na prática](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
--   [SQL SERVER - Boas práticas](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
 
 > **ReactJS**
 
@@ -100,17 +102,15 @@
 -   [Microsserviços e integrações com NodeJS](https://github.com/lobinhodev/Certificados/blob/master/Dio)
 -   [Integrando Backend em NodeJS com Frontend em ReactJS](https://github.com/lobinhodev/Certificados/blob/master/Dio)
 
+> **SQL SERVER**
+
+-   [SQL SERVER - Criando suas primeiras consultas](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [Modelando um banco de dados na prática](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [SQL SERVER - Boas práticas](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+
 > **API's e métodos HTTP**
 
 -   [Introdução a API'S e métodos HTTP](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
-
-> **Responsividade**:
-
--   [Conceitos de responsividade e experiência do Usuário - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/Conceitos%20de%20responsividade%20e%20experi%C3%AAncia%20do%20Usu%C3%A1rio.pdf)
-
-> **Bootstrap**:
-
--   [Construindo páginas da internet com Bootstrap - 4 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Construindo%20p%C3%A1ginas%20da%20internet%20com%20Bootstrap.pdf)
 
 > **Visual Studio Code**:
 
@@ -134,11 +134,6 @@
 -   [Criando seu Primeiro Repositório no GitHub Para Compartilhar Seu Progresso - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/Criando%20seu%20Primeiro%20repositório%20no%20Github.pdf)
 <p align="right">(<a href="#top"> 2021.2 à 2021.2 </a>)</p>
 
-> **Bootcamp Inter Frontend Developer**:
-
--   [Bootcamp Inter Frontend Developer - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/Bootcamp%20Inter%20Frontend%20Developer.pdf)
-<p align="right">(<a href="#top"> 2021.2 à 2021.2 </a>)</p>
-
 ## 🧠 Iped
 
 > **HTML5** / **CSS3**:
@@ -146,7 +141,15 @@
 -   [Web design responsivo criando css do topo, menu e banner - 2 Horas](https://github.com/lobinhodev/Certificados/blob/master/Iped/Web%20design%20responsivo%20criando%20css%20do%20topo%2C%20menu%20e%20banner.pdf)
 <p align="right">(<a href="#top"> 2021.2 à 2021.2 </a>)</p>
 
-# 🎓 Eventos
+# 🎓 Eventos / Bootcamp / Palestras
+
+## 🧠 Dio
+
+> **Bootcamp Inter Frontend Developer**:
+
+-   [Inicio do Bootcamp Inter Frontend Developer - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/Bootcamp%20Inter%20Frontend%20Developer.pdf)
+-   [Término do Bootcamp Inter Frontend Developer - 99 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Bootcamp%20Inter%20Frontend%20Developer.pdf)
+<p align="right">(<a href="#top"> 2021.2 à 2021.2 </a>)</p>
 
 ## 🧠 Rocketseat
 
