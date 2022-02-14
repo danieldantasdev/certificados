@@ -84,6 +84,26 @@
 -   [Modelando um banco de dados na prática](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
 -   [SQL SERVER - Boas práticas](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
 
+> **ReactJS**
+
+-   [Introdução ao ReactJS](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [Desenvolvimento de aplicações para internet com ReactJS](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [Trabalhando com Componentes com ReactJS](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [Introdução aos Reacts Hooks](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [Trabalhando com States e Effects no ReactJS](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+
+> **NodeJS**
+
+-   [Instalando seu ambiente em NodeJS](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+-   [Explorando o estilo arquitetural REST com NodeJS](https://github.com/lobinhodev/Certificados/blob/master/Dio)
+-   [NodeJS com bancos de dados relacionais (SQL)](https://github.com/lobinhodev/Certificados/blob/master/Dio)
+-   [Microsserviços e integrações com NodeJS](https://github.com/lobinhodev/Certificados/blob/master/Dio)
+-   [Integrando Backend em NodeJS com Frontend em ReactJS](https://github.com/lobinhodev/Certificados/blob/master/Dio)
+
+> **API's e métodos HTTP**
+
+-   [Introdução a API'S e métodos HTTP](https://github.com/lobinhodev/Certificados/blob/master/Dio/)
+
 > **Responsividade**:
 
 -   [Conceitos de responsividade e experiência do Usuário - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/Conceitos%20de%20responsividade%20e%20experi%C3%AAncia%20do%20Usu%C3%A1rio.pdf)
