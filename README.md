@@ -143,9 +143,16 @@
 
 # 🎓 Eventos / Bootcamp / Palestras
 
+## 🧠 Rio Innovation Week
+
+> **`Bootcamp` Inter Frontend Developer**:
+
+-   [Rio Innovation Week - 1 semana](https://github.com/lobinhodev/Certificados/blob/master/Rio%20Innovation%20Week/Certificado%20de%20Participação%20RIW%20-%20Daniel%20Abreu%20Dantas.pdfhttps://github.com/lobinhodev/Certificados/blob/master/Dio/Bootcamp%20Inter%20Frontend%20Developer.pdf)
+<p align="right">(<a href="#top"> 2021.2 à 2022.1 </a>)</p>
+
 ## 🧠 Dio
 
-> **Bootcamp Inter Frontend Developer**:
+> **`Bootcamp` Inter Frontend Developer**:
 
 -   [Inicio do Bootcamp Inter Frontend Developer - 1 Hora](https://github.com/lobinhodev/Certificados/blob/master/Dio/Bootcamp%20Inter%20Frontend%20Developer.pdf)
 -   [Término do Bootcamp Inter Frontend Developer - 99 Horas](https://github.com/lobinhodev/Certificados/blob/master/Dio/Inter%20Frontend%20Developer.pdf)
@@ -153,14 +160,14 @@
 
 ## 🧠 Rocketseat
 
-> **HTML5** / **CSS3** / **JavaScript**:
+> **`Evento` HTML5** / **CSS3** / **JavaScript**:
 
 -   [DoWhile 2021 - 10 Horas](https://github.com/lobinhodev/Certificados/blob/master/Rocketseat/dowhile-2021.pdf)
 <p align="right">(<a href="#top"> 2021.2 à 2021.2 </a>)</p>
 
 ## 🧠 Kenzie
 
-> **HTML5** / **CSS3** / **JavaScript**:
+> **`Evento` HTML5** / **CSS3** / **JavaScript**:
 
 -   [Maratona de programação - 5 Horas](https://github.com/lobinhodev/Certificados/blob/master/Kenzie/certificado-maratona-programacao.pdf)
 -   [Amazônia - 30 Horas](https://github.com/lobinhodev/Certificados/blob/master/Kenzie/certificado-amazonia.pdf)
