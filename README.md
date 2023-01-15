@@ -13,12 +13,12 @@
 
 ## 🧠 Unigranrio
 
--   [Ensino superior - Bacharel em Biomedicina (Clicando aqui terá acesso a todas minhas certificações conquistadas nessa época relacionadas a área da saúde)](./Unigranrio/)
+-   [Ensino superior - Bacharel em Biomedicina (Clicando aqui terá acesso a todas minhas certificações conquistadas nessa época relacionadas a área da saúde)](./biomedicina/)
 <p align="right">(<a href="#top"> 2018.2 - não cheguei a terminar </a>)</p>
 
 ## 🧠 Senac RJ
 
--   [Ensino superior - Tecnológico em Análise e Desenvolvimento de Sistemas]()
+-   [Ensino superior - Tecnológico em Análise e Desenvolvimento de Sistemas](./analises_desenvolvimento_sistemas/)
 <p align="right">(<a href="#top"> 2021.2 à 2023.2 </a>)</p>
 
 # 🎓 Cursos livres
